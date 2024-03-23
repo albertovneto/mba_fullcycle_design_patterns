@@ -15,7 +15,7 @@ Strategy
 Criar comportamento intercambiável
 
 
-Dynamic Factory
+Dynamic Factory / simple factory
 
 Criar uma instância com base em uma string
 
